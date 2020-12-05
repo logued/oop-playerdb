@@ -1,0 +1,2 @@
+John,100,100,20
+Michael,100,10,Mace
